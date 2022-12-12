@@ -12,7 +12,7 @@ The  process of building this qr-code component was a little bit challanging. Th
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ogochukwu-ugo.github.io/QR-Code-Component/)
 
 ## My process
 I used VS Code editor in building the QR code component. 
